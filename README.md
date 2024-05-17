@@ -6,7 +6,7 @@
 
 <div>
     <a href="https://github.com/kevinveidembaum?tab=repositories">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kevinveidembaum&theme=gotham&show_icons=true">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinveidembaum&theme=gotham&show_icons=true">
+    <img height="285em" src="https://github-readme-stats.vercel.app/api?username=kevinveidembaum&theme=gotham&show_icons=true">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinveidembaum&theme=gotham&show_icons=true">
 </div>
 
