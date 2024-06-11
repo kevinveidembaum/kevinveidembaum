@@ -1,7 +1,7 @@
 ### 👋 Eu sou Kevin Nikolai.
   
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🧠 Atualmente estudando Java e C++.
+- 🧠 Atualmente estudando Python.
 - 💻 Fascinado por tecnologia.
 
 <div>
