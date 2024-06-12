@@ -3,6 +3,7 @@
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🧠 Atualmente estudando Python.
 - 💻 Fascinado por tecnologia.
+- 📫 Contato: kveidembaum@gmail.com
 
 <div>
     <a href="https://github.com/kevinveidembaum?tab=repositories">
