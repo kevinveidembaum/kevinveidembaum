@@ -1,8 +1,8 @@
 ### 👋 Eu sou Kevin Nikolai.
   
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🧠 Atualmente estudando Python e Django.
-- 💻 Fascinado por tecnologia.
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 🧠 Atualmente estudando Python e Django
+- 💻 Fascinado por tecnologia
 - 📫 Contato: kveidembaum@gmail.com
 
 <div>
