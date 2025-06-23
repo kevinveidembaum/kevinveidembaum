@@ -1,7 +1,7 @@
 ### 👋 Eu sou Kevin Nikolai.
   
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 🧠 Atualmente estudando Java
+- 🧠 Atualmente atuo como Desenvolvedor Web Backend usando Laravel
 - 💻 Fascinado por tecnologia
 - 📫 Contato: kveidembaum@gmail.com
 
